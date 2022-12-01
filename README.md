@@ -5,6 +5,8 @@
 - 📫 How to reach me: The best way to reach me is via email. My email is james.leung8688@gmail.com. The alternative way to reach me is via LinkedIn.
 - Tools💻: Excel, Tableau, SQL and Python to create 100% data-driven insights.
 
+<a href="https://jamesjaixp.github.io/jamesleung1.github.io/">James Leung's Projects</a>
+
 <!--
 **jamesjaixp/jamesjaixp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
