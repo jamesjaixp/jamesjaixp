@@ -7,6 +7,10 @@
 
 <a href="https://jamesjaixp.github.io/jamesleung1.github.io/">James Leung's Projects</a>
 
+Certifications:
+- <a href="https://docs.google.com/presentation/d/1JP0UuAKh8MwJPzWnriuTOtymh029O6DRN5_GOSWvQEo/preview?slide=id.p">21 Days to Data Jumpstart</a>
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/5CTVLGSL896W">Google Data Analytics</a>
+
 <!--
 **jamesjaixp/jamesjaixp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
